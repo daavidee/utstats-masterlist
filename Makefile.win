@@ -1,0 +1,39 @@
+# Project: masterlist
+# Compiler: Default GCC compiler
+# Compiler Type: MingW 3
+# Makefile created by wxDev-C++ 6.10.2 on 12/02/11 02:10
+
+CPP       = g++.exe
+CC        = gcc.exe
+WINDRES   = windres.exe
+OBJ       = Objects/MingW/main.o Objects/MingW/dns_lookup.o Objects/MingW/string_functions.o
+LINKOBJ   = Objects/MingW/main.o Objects/MingW/dns_lookup.o Objects/MingW/string_functions.o
+LIBS      = -L"d:/ProgramFiles/Dev-Cpp/Lib" d:/ProgramFiles/Dev-Cpp/lib/libwsock32.a  
+INCS      = -I"include"
+CXXINCS   = -I"d:/ProgramFiles/Dev-Cpp/lib/gcc/mingw32/3.4.2/include" -I"d:/ProgramFiles/Dev-Cpp/include/c++/3.4.2/backward" -I"d:/ProgramFiles/Dev-Cpp/include/c++/3.4.2/mingw32" -I"d:/ProgramFiles/Dev-Cpp/include/c++/3.4.2" -I"d:/ProgramFiles/Dev-Cpp/include" -I"d:/ProgramFiles/Dev-Cpp/" -I"d:/ProgramFiles/Dev-Cpp/include/common/wx/msw" -I"d:/ProgramFiles/Dev-Cpp/include/common/wx/generic" -I"d:/ProgramFiles/Dev-Cpp/include/common/wx/fl" -I"d:/ProgramFiles/Dev-Cpp/include/common/wx/gizmos" -I"d:/ProgramFiles/Dev-Cpp/include/common/wx/html" -I"d:/ProgramFiles/Dev-Cpp/include/common/wx/mmedia" -I"d:/ProgramFiles/Dev-Cpp/include/common/wx/net" -I"d:/ProgramFiles/Dev-Cpp/include/common/wx/ogl" -I"d:/ProgramFiles/Dev-Cpp/include/common/wx/plot" -I"d:/ProgramFiles/Dev-Cpp/include/common/wx/protocol" -I"d:/ProgramFiles/Dev-Cpp/include/common/wx/stc" -I"d:/ProgramFiles/Dev-Cpp/include/common/wx/svg" -I"d:/ProgramFiles/Dev-Cpp/include/common/wx/xml" -I"d:/ProgramFiles/Dev-Cpp/include/common/wx/xrc" -I"d:/ProgramFiles/Dev-Cpp/include/common/wx" -I"d:/ProgramFiles/Dev-Cpp/include/common" -I"D:/ProgramFiles/include"
+RCINCS    = --include-dir "d:/PROGRA~1/Dev-Cpp/include/common"
+BIN       = Output/MingW/masterlist.exe
+DEFINES   = 
+CXXFLAGS  = $(CXXINCS) $(DEFINES)  
+CFLAGS    = $(INCS) $(DEFINES)  
+GPROF     = gprof.exe
+RM        = rm -f
+LINK      = g++.exe
+
+.PHONY: all all-before all-after clean clean-custom
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	$(RM) $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(LINK) $(LINKOBJ) -o "Output\MingW\masterlist.exe" $(LIBS)
+
+Objects/MingW/main.o: $(GLOBALDEPS) main.cpp dns_lookup.h string_functions.h
+	$(CPP) -c main.cpp -o Objects/MingW/main.o $(CXXFLAGS)
+
+Objects/MingW/dns_lookup.o: $(GLOBALDEPS) dns_lookup.cpp
+	$(CPP) -c dns_lookup.cpp -o Objects/MingW/dns_lookup.o $(CXXFLAGS)
+
+Objects/MingW/string_functions.o: $(GLOBALDEPS) string_functions.cpp dns_lookup.h
+	$(CPP) -c string_functions.cpp -o Objects/MingW/string_functions.o $(CXXFLAGS)

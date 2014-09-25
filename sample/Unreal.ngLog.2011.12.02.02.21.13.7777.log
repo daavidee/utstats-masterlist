@@ -1,0 +1,771 @@
+0.00	info	Log_Standard	UTStats
+0.00	info	Log_Version	0.4.2
+0.00	info	Game_Name	Unreal
+0.00	info	Game_Version	451
+0.00	info	Absolute_Time	2011.12.02.02.21.13.746.-5.0
+0.00	info	utglenabled	False
+0.00	game	insta	False
+0.00	info	True_Server_IP	72.5.152.12
+0.00	info	Server_ServerName	zp| Return to Reston
+0.00	info	Server_AdminName	Cy
+0.00	info	Server_AdminEmail	
+0.00	info	Server_Region	0
+0.00	info	Server_MOTDLine1	
+0.00	info	Server_MOTDLine2	
+0.00	info	Server_MOTDLine3	
+0.00	info	Server_MOTDLine4	
+0.00	info	Server_IP	72.5.152.12
+0.00	info	Server_Port	7777
+0.00	map	Name	CTF-Dreary.unr
+0.00	map	Title	Dreary Outpost
+0.00	map	Author	Shane Caudle
+0.00	map	IdealPlayerCount	8-12
+0.00	map	LevelEnterText	
+0.00	game	GoodMutator	Map-Vote LA13
+0.00	game	GoodMutator	Pure: ZeroPing AccuGib
+0.00	game	GameName	Capture the Flag
+0.00	game	GameClass	Botpack.CTFGame
+0.00	game	GameVersion	451
+0.00	game	MinNetVersion	432
+0.00	game	NoMonsters	False
+0.00	game	MuteSpectators	False
+0.00	game	HumansOnly	True
+0.00	game	WeaponsStay	True
+0.00	game	ClassicDeathmessages	False
+0.00	game	LowGore	False
+0.00	game	VeryLowGore	False
+0.00	game	TeamGame	True
+0.00	game	GameSpeed	100
+0.00	game	MaxSpectators	9
+0.00	game	MaxPlayers	4
+0.00	game	FragLimit	0
+0.00	game	TimeLimit	20
+0.00	game	MultiPlayerBots	False
+0.00	game	HardCore	True
+0.00	game	MegaSpeed	False
+0.00	game	AirControl	0.250000
+0.00	game	JumpMatch	False
+0.00	game	UseTranslocator	True
+0.00	game	TournamentMode	True
+0.00	game	NetMode	DedicatedServer
+0.00	game	GoalTeamScore	10
+0.00	game	FriendlyFireScale	0.000000
+0.85	player	Rename	±ßg»insanity	0
+0.85	player	Teamchange	0	0
+0.85	player	Connect	±ßg»insanity	0	False
+0.85	player	TeamName	0	Red
+0.85	player	Team	0	0
+0.85	player	TeamID	0	0
+0.85	player	Ping	0	0
+0.85	player	IsABot	0	False
+0.85	player	Skill	0	1.000000
+1.07	player	IP	0	24.78.243.110
+1.10	player	Rename	±ßg»rainbot	1
+1.10	player	Teamchange	1	1
+1.10	player	Connect	±ßg»rainbot	1	False
+1.10	player	TeamName	1	Blue
+1.10	player	Team	1	1
+1.10	player	TeamID	1	0
+1.10	player	Ping	1	0
+1.10	player	IsABot	1	False
+1.10	player	Skill	1	1.000000
+1.10	player	Rename	SKOOMA	2
+1.10	player	Teamchange	2	0
+1.10	player	Connect	SKOOMA	2	False
+1.10	player	TeamName	2	Red
+1.10	player	Team	2	0
+1.10	player	TeamID	2	1
+1.10	player	Ping	2	0
+1.10	player	IsABot	2	False
+1.10	player	Skill	2	1.000000
+1.50	player	IP	1	99.230.181.143
+1.52	player	IP	2	64.53.216.68
+34.67	player	Disconnect	0
+42.89	game_start
+42.89	IP	2	64.53.216.68:49197
+42.89	game	realstart
+42.89	player	NetSpeed	2	10000
+42.89	player	Fov	2	90.000000
+42.89	player	VoiceType	2	BotPack.VoiceMaleTwo
+42.89	player	Skin	2	SoldierSkins.hkil
+42.89	player	Face	2	SoldierSkins.tensor
+42.89	IP	1	99.230.181.143:3455
+42.89	player	NetSpeed	1	10000
+42.89	player	Fov	1	90.000000
+42.89	player	VoiceType	1	BotPack.VoiceFemaleOne
+42.89	player	Skin	1	FCommandoSkins.daco
+42.89	player	Face	1	FCommandoSkins.Tanya
+48.70	player	Rename	±ßg»insanity	3
+48.70	player	Teamchange	3	0
+48.70	player	Connect	±ßg»insanity	3	False
+48.70	player	TeamName	3	Red
+48.70	player	Team	3	0
+48.70	player	TeamID	3	0
+48.70	player	Ping	3	0
+48.70	player	IsABot	3	False
+48.70	player	Skill	3	1.000000
+48.72	player	IP	3	24.78.243.110
+60.00	player	Ping	0	0
+60.00	player	Ping	0	0
+60.00	player	Ping	1	41
+60.00	player	Ping	2	359
+60.00	player	Ping	3	180
+68.31	flag_taken	1	0
+68.48	flag_dropped	1	0
+68.48	kill	3	Enhanced Shock Rifle	1	Enhanced Shock Rifle	jolted
+68.48	first_blood	3
+68.48	flag_kill	3
+71.03	flag_returned	2	0
+71.03	flag_return_mid	2	0
+89.53	flag_taken	1	0
+90.00	player	Ping	0	0
+90.00	player	Ping	0	0
+90.00	player	Ping	1	43
+90.00	player	Ping	2	47
+90.00	player	Ping	3	67
+90.37	kill	1	Enhanced Shock Rifle	3	Enhanced Shock Rifle	jolted
+91.49	IP	3	24.78.243.110:63913
+91.49	player	NetSpeed	3	10000
+91.49	player	Fov	3	90.000000
+91.49	player	VoiceType	3	BotPack.VoiceFemaleOne
+91.49	player	Skin	3	FCommandoSkins.daco
+91.49	player	Face	3	FCommandoSkins.Tanya
+112.96	flag_captured	1	0
+116.92	kill	3	Enhanced Shock Rifle	1	Enhanced Shock Rifle	jolted
+119.86	flag_taken	3	1
+120.01	player	Ping	0	0
+120.01	player	Ping	0	0
+120.01	player	Ping	1	43
+120.01	player	Ping	2	46
+120.01	player	Ping	3	68
+120.07	player	Teamchange	1	0
+150.00	player	Ping	0	0
+150.00	player	Ping	0	0
+150.00	player	Ping	1	42
+150.00	player	Ping	2	45
+150.00	player	Ping	3	67
+180.00	player	Ping	0	0
+180.00	player	Ping	0	0
+180.00	player	Ping	1	42
+180.00	player	Ping	2	48
+180.00	player	Ping	3	66
+210.01	player	Ping	0	0
+210.01	player	Ping	0	0
+210.01	player	Ping	1	41
+210.01	player	Ping	2	47
+210.01	player	Ping	3	67
+240.01	player	Ping	0	0
+240.01	player	Ping	0	0
+240.01	player	Ping	1	41
+240.01	player	Ping	2	45
+240.01	player	Ping	3	67
+251.19	player	Rename	±ßg»k0n	4
+251.19	player	Teamchange	4	255
+251.21	player	IP	4	99.236.32.74
+263.79	player	Rename	repinuj	5
+263.79	player	Teamchange	5	1
+263.79	player	Connect	repinuj	5	False
+263.79	player	TeamName	5	Blue
+263.79	player	Team	5	1
+263.79	player	TeamID	5	0
+263.79	player	Ping	5	0
+263.79	player	IsABot	5	False
+263.79	player	Skill	5	1.000000
+263.81	player	IP	5	69.81.152.183
+270.00	player	Ping	0	0
+270.00	player	Ping	0	0
+270.00	player	Ping	1	40
+270.00	player	Ping	2	47
+270.00	player	Ping	3	68
+270.00	player	Ping	4	35
+270.00	player	Ping	5	267
+275.64	player	Teamchange	5	0
+275.64	suicide	5	Enhanced Shock Rifle	Unknown	None
+277.28	IP	5	69.81.152.183:55069
+277.28	player	NetSpeed	5	10000
+277.28	player	Fov	5	90.000000
+277.28	player	VoiceType	5	BotPack.VoiceMaleTwo
+277.28	player	Skin	5	SoldierSkins.hkil
+277.28	player	Face	5	SoldierSkins.matrix
+294.37	flag_dropped	3	1
+295.86	flag_pickedup	1	1
+298.26	flag_dropped	1	1
+299.65	flag_pickedup	1	1
+300.00	player	Ping	0	0
+300.00	player	Ping	0	0
+300.00	player	Ping	1	41
+300.00	player	Ping	2	46
+300.00	player	Ping	3	68
+300.00	player	Ping	4	36
+300.00	player	Ping	5	62
+303.64	flag_dropped	1	1
+303.64	suicide	1	Enhanced Shock Rifle	Suicided	None
+304.46	flag_pickedup	3	1
+306.47	flag_dropped	3	1
+312.00	flag_pickedup	3	1
+317.60	flag_dropped	3	1
+318.84	flag_pickedup	1	1
+329.99	player	Ping	0	0
+329.99	player	Ping	0	0
+329.99	player	Ping	1	43
+329.99	player	Ping	2	47
+329.99	player	Ping	3	68
+329.99	player	Ping	4	36
+329.99	player	Ping	5	62
+359.99	player	Ping	0	0
+359.99	player	Ping	0	0
+359.99	player	Ping	1	41
+359.99	player	Ping	2	46
+359.99	player	Ping	3	69
+359.99	player	Ping	5	61
+375.09	player	Rename	XPOHb	6
+375.09	player	Teamchange	6	255
+375.11	player	IP	6	99.236.32.74
+389.98	player	Ping	0	0
+389.98	player	Ping	0	0
+389.98	player	Ping	1	40
+389.98	player	Ping	2	46
+389.98	player	Ping	3	65
+389.98	player	Ping	5	63
+389.98	player	Ping	6	36
+395.81	player	Disconnect	5
+401.00	player	Rename	XPOHb	7
+401.00	player	Teamchange	7	1
+401.00	player	Connect	XPOHb	7	False
+401.00	player	TeamName	7	Blue
+401.00	player	Team	7	1
+401.00	player	TeamID	7	0
+401.00	player	Ping	7	0
+401.00	player	IsABot	7	False
+401.00	player	Skill	7	1.000000
+401.01	player	IP	7	99.236.32.74
+419.98	player	Ping	0	0
+419.98	player	Ping	0	0
+419.98	player	Ping	1	43
+419.98	player	Ping	2	46
+419.98	player	Ping	3	67
+419.98	player	Ping	7	46
+423.36	kill	7	Enhanced Shock Rifle	2	Enhanced Shock Rifle	jolted
+426.08	kill	7	Enhanced Shock Rifle	3	Enhanced Shock Rifle	jolted
+426.08	flag_kill	7
+427.26	flag_dropped	1	1
+427.26	kill	7	Enhanced Shock Rifle	1	Enhanced Shock Rifle	jolted
+427.26	flag_kill	7
+429.12	flag_returned	7	1
+429.12	flag_return_base	7	1
+436.28	kill	7	Enhanced Shock Rifle	3	Enhanced Shock Rifle	jolted
+436.28	spree	spree_mult	7
+449.98	player	Ping	0	0
+449.98	player	Ping	0	0
+449.98	player	Ping	1	42
+449.98	player	Ping	2	52
+449.98	player	Ping	3	156
+449.98	player	Ping	7	36
+450.19	kill	7	Enhanced Shock Rifle	3	Enhanced Shock Rifle	jolted
+452.24	flag_taken	7	0
+455.02	flag_taken	1	1
+462.44	flag_dropped	1	1
+462.44	kill	7	Enhanced Shock Rifle	1	Enhanced Shock Rifle	jolted
+462.44	flag_kill	7
+462.71	flag_returned	7	1
+462.71	flag_return_base	7	1
+474.21	flag_captured	7	0
+476.23	kill	1	Enhanced Shock Rifle	7	Enhanced Shock Rifle	jolted
+476.23	spree	spree_kill	7
+477.32	IP	7	99.236.32.74:60685
+477.32	player	NetSpeed	7	10000
+477.32	player	Fov	7	90.000000
+477.32	player	VoiceType	7	BotPack.VoiceFemaleTwo
+477.32	player	Skin	7	SGirlSkins.Garf
+477.32	player	Face	7	SGirlSkins.Isis
+479.68	flag_taken	1	1
+479.97	player	Ping	0	0
+479.97	player	Ping	0	0
+479.97	player	Ping	1	41
+479.97	player	Ping	2	45
+479.97	player	Ping	3	156
+479.97	player	Ping	7	35
+483.59	flag_dropped	1	1
+483.59	kill	7	Enhanced Shock Rifle	1	Enhanced Shock Rifle	jolted
+483.59	flag_kill	7
+485.54	flag_returned	7	1
+485.54	flag_return_base	7	1
+494.44	flag_taken	3	1
+504.68	flag_taken	7	0
+509.97	player	Ping	0	0
+509.97	player	Ping	0	0
+509.97	player	Ping	1	39
+509.97	player	Ping	2	45
+509.97	player	Ping	3	67
+509.97	player	Ping	7	35
+539.98	player	Ping	0	0
+539.98	player	Ping	0	0
+539.98	player	Ping	1	41
+539.98	player	Ping	2	46
+539.98	player	Ping	3	67
+539.98	player	Ping	7	35
+569.98	player	Ping	0	0
+569.98	player	Ping	0	0
+569.98	player	Ping	1	42
+569.98	player	Ping	2	50
+569.98	player	Ping	3	66
+569.98	player	Ping	7	35
+571.73	flag_dropped	3	1
+571.73	kill	7	Enhanced Shock Rifle	3	Enhanced Shock Rifle	jolted
+571.73	flag_kill	7
+572.90	kill	7	Enhanced Shock Rifle	2	Enhanced Shock Rifle	jolted
+574.69	flag_returned	7	1
+574.69	flag_return_base	7	1
+583.04	flag_dropped	7	0
+583.04	kill	1	Enhanced Shock Rifle	7	Enhanced Shock Rifle	jolted
+583.04	flag_kill	1
+584.01	flag_returned	1	0
+584.01	flag_return_closesave	1	0
+585.77	flag_taken	1	1
+588.09	flag_dropped	1	1
+588.09	kill	7	Enhanced Shock Rifle	1	Enhanced Shock Rifle	jolted
+588.09	spree	spree_dbl	7
+588.09	flag_kill	7
+589.81	flag_returned	7	1
+589.81	flag_return_mid	7	1
+593.76	kill	7	Enhanced Shock Rifle	3	Enhanced Shock Rifle	jolted
+599.99	player	Ping	0	0
+599.99	player	Ping	0	0
+599.99	player	Ping	1	41
+599.99	player	Ping	2	47
+599.99	player	Ping	3	66
+599.99	player	Ping	7	35
+611.57	flag_taken	7	0
+612.79	flag_taken	3	1
+624.92	flag_dropped	3	1
+624.92	kill	7	Enhanced Shock Rifle	3	Enhanced Shock Rifle	jolted
+624.92	flag_kill	7
+625.84	flag_dropped	7	0
+625.84	kill	1	Enhanced Shock Rifle	7	Enhanced Shock Rifle	jolted
+625.84	flag_kill	1
+627.12	flag_pickedup	1	1
+627.19	flag_returned	1	0
+627.19	flag_return_mid	1	0
+630.00	player	Ping	0	0
+630.00	player	Ping	0	0
+630.00	player	Ping	1	42
+630.00	player	Ping	2	47
+630.00	player	Ping	3	66
+630.00	player	Ping	7	35
+634.43	flag_captured	1	1
+634.43	Flag_assist	3	0
+634.83	kill	7	Enhanced Shock Rifle	2	Enhanced Shock Rifle	jolted
+660.01	player	Ping	0	0
+660.01	player	Ping	0	0
+660.01	player	Ping	1	43
+660.01	player	Ping	2	46
+660.01	player	Ping	3	67
+660.01	player	Ping	7	35
+668.28	suicide	3	Enhanced Shock Rifle	Fell	None
+678.81	flag_taken	1	1
+690.01	player	Ping	0	0
+690.01	player	Ping	0	0
+690.01	player	Ping	1	43
+690.01	player	Ping	2	46
+690.01	player	Ping	3	67
+690.01	player	Ping	7	36
+702.86	flag_captured	1	1
+720.03	player	Ping	0	0
+720.03	player	Ping	0	0
+720.03	player	Ping	1	41
+720.03	player	Ping	2	47
+720.03	player	Ping	3	66
+720.03	player	Ping	7	35
+720.06	kill	7	Enhanced Shock Rifle	3	Enhanced Shock Rifle	jolted
+726.22	kill	7	Enhanced Shock Rifle	1	Enhanced Shock Rifle	jolted
+742.09	player	Rename	Fuckman	8
+742.09	player	Teamchange	8	0
+742.09	player	Connect	Fuckman	8	False
+742.09	player	TeamName	8	Red
+742.09	player	Team	8	0
+742.09	player	TeamID	8	3
+742.09	player	Ping	8	0
+742.09	player	IsABot	8	False
+742.09	player	Skill	8	1.000000
+742.11	player	IP	8	173.33.242.33
+743.63	flag_taken	3	1
+750.02	player	Ping	0	0
+750.02	player	Ping	0	0
+750.02	player	Ping	1	42
+750.02	player	Ping	2	45
+750.02	player	Ping	3	68
+750.02	player	Ping	7	36
+750.02	player	Ping	8	35
+780.06	player	Ping	0	0
+780.06	player	Ping	0	0
+780.06	player	Ping	1	38
+780.06	player	Ping	2	46
+780.06	player	Ping	3	67
+780.06	player	Ping	7	36
+780.06	player	Ping	8	36
+783.00	kill	7	Enhanced Shock Rifle	8	Enhanced Shock Rifle	jolted
+788.70	kill	3	Enhanced Shock Rifle	7	Enhanced Shock Rifle	jolted
+788.72	flag_captured	3	1
+790.92	IP	8	173.33.242.33:49333
+790.92	player	NetSpeed	8	15000
+790.92	player	Fov	8	90.000000
+790.92	player	VoiceType	8	BotPack.VoiceMaleOne
+790.92	player	Skin	8	CommandoSkins.cmdo
+790.92	player	Face	8	CommandoSkins.Blake
+792.89	suicide	3	Enhanced Shock Rifle	Corroded	None
+804.51	flag_taken	2	1
+806.86	flag_dropped	2	1
+807.39	flag_returned_timeout	1
+809.20	flag_taken	2	1
+810.08	player	Ping	0	0
+810.08	player	Ping	0	0
+810.08	player	Ping	1	42
+810.08	player	Ping	2	47
+810.08	player	Ping	3	66
+810.08	player	Ping	7	35
+810.08	player	Ping	8	36
+810.54	flag_dropped	2	1
+811.31	flag_returned_timeout	1
+812.16	flag_taken	2	1
+813.16	flag_dropped	2	1
+814.03	flag_returned_timeout	1
+814.70	flag_taken	2	1
+815.83	flag_dropped	2	1
+816.67	flag_returned_timeout	1
+817.43	flag_taken	1	1
+817.59	flag_taken	7	0
+819.60	flag_dropped	7	0
+820.42	flag_returned_timeout	0
+820.93	player	Rename	Dem`	9
+820.93	player	Teamchange	9	255
+820.95	player	IP	9	201.164.101.181
+821.42	flag_taken	7	0
+822.17	flag_dropped	1	1
+823.10	flag_dropped	7	0
+823.55	flag_returned_timeout	0
+824.28	flag_pickedup	3	1
+824.73	flag_taken	7	0
+826.34	flag_dropped	7	0
+827.12	flag_returned_timeout	0
+827.85	flag_dropped	3	1
+828.16	flag_taken	7	0
+828.48	flag_pickedup	1	1
+829.49	flag_dropped	1	1
+829.85	flag_dropped	7	0
+830.55	flag_pickedup	3	1
+830.65	flag_returned_timeout	0
+831.67	flag_taken	7	0
+833.30	flag_dropped	7	0
+833.85	flag_returned_timeout	0
+834.78	flag_dropped	3	1
+835.05	flag_taken	7	0
+835.81	flag_pickedup	1	1
+836.19	flag_dropped	1	1
+836.39	flag_dropped	7	0
+836.94	flag_returned_timeout	0
+837.27	flag_pickedup	3	1
+838.27	flag_taken	7	0
+839.96	flag_dropped	7	0
+840.10	player	Ping	0	0
+840.10	player	Ping	0	0
+840.10	player	Ping	1	41
+840.10	player	Ping	2	47
+840.10	player	Ping	3	67
+840.10	player	Ping	7	35
+840.10	player	Ping	8	37
+840.10	player	Ping	9	124
+843.69	flag_dropped	3	1
+843.69	flag_returned_timeout	1
+843.69	suicide	3	Enhanced Shock Rifle	Corroded	None
+843.94	flag_pickedup	7	0
+846.13	flag_taken	1	1
+846.43	flag_dropped	1	1
+847.98	suicide	8	Enhanced Shock Rifle	Corroded	None
+850.41	flag_pickedup	1	1
+859.90	flag_dropped	1	1
+859.90	kill	7	Enhanced Shock Rifle	1	Enhanced Shock Rifle	jolted
+859.90	flag_kill	7
+860.14	flag_pickedup	8	1
+862.25	flag_dropped	8	1
+862.25	kill	7	Enhanced Shock Rifle	8	Enhanced Shock Rifle	jolted
+862.25	flag_kill	7
+863.67	flag_returned	7	1
+863.67	flag_return_base	7	1
+864.52	flag_taken	3	1
+866.25	player	Disconnect	2
+870.11	player	Ping	0	0
+870.11	player	Ping	0	0
+870.11	player	Ping	1	196
+870.11	player	Ping	3	66
+870.11	player	Ping	7	35
+870.11	player	Ping	8	36
+871.52	player	Rename	SKOOMA	10
+871.52	player	Teamchange	10	0
+871.52	player	Connect	SKOOMA	10	False
+871.52	player	TeamName	10	Red
+871.52	player	Team	10	0
+871.52	player	TeamID	10	1
+871.52	player	Ping	10	0
+871.52	player	IsABot	10	False
+871.52	player	Skill	10	1.000000
+871.54	player	IP	10	64.53.216.68
+872.99	flag_dropped	7	0
+872.99	kill	3	Enhanced Shock Rifle	7	Enhanced Shock Rifle	jolted
+872.99	flag_kill	3
+873.08	flag_returned	3	0
+873.08	flag_return_mid	3	0
+874.96	kill	7	Enhanced Shock Rifle	1	Enhanced Shock Rifle	jolted
+874.96	spree	spree_dbl	7
+880.30	flag_dropped	3	1
+880.30	kill	7	Enhanced Shock Rifle	3	Enhanced Shock Rifle	jolted
+880.30	flag_kill	7
+883.57	flag_returned	7	1
+883.57	flag_return_mid	7	1
+884.96	kill	7	Enhanced Shock Rifle	8	Enhanced Shock Rifle	jolted
+892.04	flag_taken	10	1
+894.89	flag_dropped	10	1
+895.65	flag_pickedup	1	1
+896.39	kill	3	Enhanced Shock Rifle	7	Enhanced Shock Rifle	jolted
+896.61	flag_dropped	1	1
+899.27	flag_pickedup	1	1
+900.14	player	Ping	0	0
+900.14	player	Ping	0	0
+900.14	player	Ping	1	40
+900.14	player	Ping	3	68
+900.14	player	Ping	7	35
+900.14	player	Ping	8	36
+900.14	player	Ping	10	45
+901.41	flag_dropped	1	1
+901.41	kill	7	Enhanced Shock Rifle	1	Enhanced Shock Rifle	jolted
+901.41	flag_kill	7
+903.52	flag_returned	7	1
+903.52	flag_return_mid	7	1
+909.45	flag_taken	3	1
+930.16	player	Ping	0	0
+930.16	player	Ping	0	0
+930.16	player	Ping	1	39
+930.16	player	Ping	3	67
+930.16	player	Ping	7	134
+930.16	player	Ping	8	36
+930.16	player	Ping	10	46
+942.78	flag_captured	3	1
+944.57	suicide	1	Enhanced Shock Rifle	Suicided	None
+960.19	player	Ping	0	0
+960.19	player	Ping	0	0
+960.19	player	Ping	1	40
+960.19	player	Ping	3	65
+960.19	player	Ping	7	34
+960.19	player	Ping	8	36
+960.19	player	Ping	10	56
+990.21	player	Ping	0	0
+990.21	player	Ping	0	0
+990.21	player	Ping	1	41
+990.21	player	Ping	3	66
+990.21	player	Ping	7	129
+990.21	player	Ping	8	35
+990.21	player	Ping	10	46
+1020.22	player	Ping	0	0
+1020.22	player	Ping	0	0
+1020.22	player	Ping	1	41
+1020.22	player	Ping	3	66
+1020.22	player	Ping	7	132
+1020.22	player	Ping	8	36
+1020.22	player	Ping	10	44
+1050.25	player	Ping	0	0
+1050.25	player	Ping	0	0
+1050.25	player	Ping	1	42
+1050.25	player	Ping	3	66
+1050.25	player	Ping	7	130
+1050.25	player	Ping	8	37
+1050.25	player	Ping	10	47
+1080.28	player	Ping	0	0
+1080.28	player	Ping	0	0
+1080.28	player	Ping	1	41
+1080.28	player	Ping	3	65
+1080.28	player	Ping	7	127
+1080.28	player	Ping	8	35
+1080.28	player	Ping	10	47
+1110.31	player	Ping	0	0
+1110.31	player	Ping	0	0
+1110.31	player	Ping	1	38
+1110.31	player	Ping	3	67
+1110.31	player	Ping	7	129
+1110.31	player	Ping	8	35
+1110.31	player	Ping	10	47
+1140.35	player	Ping	0	0
+1140.35	player	Ping	0	0
+1140.35	player	Ping	1	41
+1140.35	player	Ping	3	66
+1140.35	player	Ping	7	128
+1140.35	player	Ping	8	36
+1140.35	player	Ping	10	45
+1161.94	player	Disconnect	3
+1170.38	player	Ping	0	0
+1170.38	player	Ping	0	0
+1170.38	player	Ping	1	41
+1170.38	player	Ping	7	129
+1170.38	player	Ping	8	35
+1170.38	player	Ping	10	46
+1200.39	player	Ping	0	0
+1200.39	player	Ping	0	0
+1200.39	player	Ping	1	41
+1200.39	player	Ping	7	130
+1200.39	player	Ping	8	37
+1200.39	player	Ping	10	47
+1216.56	flag_taken	10	1
+1230.39	player	Ping	0	0
+1230.39	player	Ping	0	0
+1230.39	player	Ping	1	41
+1230.39	player	Ping	7	35
+1230.39	player	Ping	8	35
+1230.39	player	Ping	10	47
+1248.26	flag_taken	7	0
+1251.19	flag_dropped	10	1
+1253.03	flag_pickedup	8	1
+1256.75	flag_dropped	8	1
+1260.41	player	Ping	0	0
+1260.41	player	Ping	0	0
+1260.41	player	Ping	1	41
+1260.41	player	Ping	7	35
+1260.41	player	Ping	8	36
+1260.41	player	Ping	10	46
+1268.80	flag_pickedup	10	1
+1271.10	flag_dropped	10	1
+1271.10	suicide	10	Enhanced Shock Rifle	Suicided	None
+1273.36	IP	10	64.53.216.68:64662
+1273.36	player	NetSpeed	10	10000
+1273.36	player	Fov	10	90.000000
+1273.36	player	VoiceType	10	BotPack.VoiceMaleTwo
+1273.36	player	Skin	10	SoldierSkins.hkil
+1273.36	player	Face	10	SoldierSkins.tensor
+1290.41	player	Ping	0	0
+1290.41	player	Ping	0	0
+1290.41	player	Ping	1	42
+1290.41	player	Ping	7	33
+1290.41	player	Ping	8	36
+1290.41	player	Ping	10	44
+1295.48	kill	7	Enhanced Shock Rifle	10	Enhanced Shock Rifle	jolted
+1296.10	flag_returned_timeout	1
+1298.18	flag_captured	7	0
+1320.42	player	Ping	0	0
+1320.42	player	Ping	0	0
+1320.42	player	Ping	1	41
+1320.42	player	Ping	7	34
+1320.42	player	Ping	8	36
+1320.42	player	Ping	10	107
+1324.34	kill	7	Enhanced Shock Rifle	10	Enhanced Shock Rifle	jolted
+1325.30	flag_taken	7	0
+1335.97	flag_dropped	7	0
+1335.97	kill	10	Enhanced Shock Rifle	7	Enhanced Shock Rifle	jolted
+1335.97	flag_kill	10
+1337.03	flag_returned	10	0
+1337.03	flag_return_base	10	0
+1350.43	player	Ping	0	0
+1350.43	player	Ping	0	0
+1350.43	player	Ping	1	41
+1350.43	player	Ping	7	34
+1350.43	player	Ping	8	37
+1350.43	player	Ping	10	45
+1350.69	suicide	1	Enhanced Shock Rifle	Corroded	None
+1363.32	game_end	timelimit
+1363.32	
+1363.32	stat_player	accuracy	5	0.000000
+1363.32	stat_player	score	5	-1
+1363.32	stat_player	frags	5	-1
+1363.32	stat_player	kills	5	0
+1363.32	stat_player	deaths	5	0
+1363.32	stat_player	suicides	5	1
+1363.32	stat_player	teamkills	5	0
+1363.32	stat_player	efficiency	5	0.000000
+1363.32	stat_player	time_on_server	5	132.042694
+1363.32	stat_player	ttl	5	132.000000
+1363.32	weap_shotcount	Enhanced Shock Rifle	5	4
+1363.32	weap_hitcount	Enhanced Shock Rifle	5	0
+1363.32	weap_damagegiven	Enhanced Shock Rifle	5	0
+1363.32	weap_accuracy	Enhanced Shock Rifle	5	0.000000
+1363.32	stat_player	accuracy	2	0.000000
+1363.32	stat_player	score	2	2
+1363.32	stat_player	frags	2	0
+1363.32	stat_player	kills	2	0
+1363.32	stat_player	deaths	2	3
+1363.32	stat_player	suicides	2	0
+1363.32	stat_player	teamkills	2	0
+1363.32	stat_player	efficiency	2	0.000000
+1363.32	stat_player	time_on_server	2	865.177063
+1363.32	stat_player	ttl	2	274.333344
+1363.32	weap_shotcount	Enhanced Shock Rifle	2	46
+1363.32	weap_hitcount	Enhanced Shock Rifle	2	0
+1363.32	weap_damagegiven	Enhanced Shock Rifle	2	0
+1363.32	weap_accuracy	Enhanced Shock Rifle	2	0.000000
+1363.32	stat_player	accuracy	3	6.024096
+1363.32	stat_player	score	3	51
+1363.32	stat_player	frags	3	2
+1363.32	stat_player	kills	3	5
+1363.32	stat_player	deaths	3	9
+1363.32	stat_player	suicides	3	3
+1363.32	stat_player	teamkills	3	0
+1363.32	stat_player	efficiency	3	29.411766
+1363.32	stat_player	time_on_server	3	1112.867676
+1363.32	stat_player	ttl	3	123.555557
+1363.32	weap_shotcount	Enhanced Shock Rifle	3	83
+1363.32	weap_hitcount	Enhanced Shock Rifle	3	5
+1363.32	weap_damagegiven	Enhanced Shock Rifle	3	7500
+1363.32	weap_accuracy	Enhanced Shock Rifle	3	6.024096
+1363.32	stat_player	accuracy	1	7.142858
+1363.32	stat_player	score	1	54
+1363.32	stat_player	frags	1	1
+1363.32	stat_player	kills	1	4
+1363.32	stat_player	deaths	1	10
+1363.32	stat_player	suicides	1	3
+1363.32	stat_player	teamkills	1	0
+1363.32	stat_player	efficiency	1	23.529411
+1363.32	stat_player	time_on_server	1	1361.942017
+1363.32	stat_player	ttl	1	131.899994
+1363.32	weap_shotcount	Enhanced Shock Rifle	1	56
+1363.32	weap_hitcount	Enhanced Shock Rifle	1	4
+1363.32	weap_damagegiven	Enhanced Shock Rifle	1	6000
+1363.32	weap_accuracy	Enhanced Shock Rifle	1	7.142858
+1363.32	stat_player	accuracy	10	2.702703
+1363.32	stat_player	score	10	4
+1363.32	stat_player	frags	10	0
+1363.32	stat_player	kills	10	1
+1363.32	stat_player	deaths	10	2
+1363.32	stat_player	suicides	10	1
+1363.32	stat_player	teamkills	10	0
+1363.32	stat_player	efficiency	10	25.000000
+1363.32	stat_player	time_on_server	10	491.492676
+1363.32	stat_player	ttl	10	245.500000
+1363.32	weap_shotcount	Enhanced Shock Rifle	10	37
+1363.32	weap_hitcount	Enhanced Shock Rifle	10	1
+1363.32	weap_damagegiven	Enhanced Shock Rifle	10	1500
+1363.32	weap_accuracy	Enhanced Shock Rifle	10	2.702703
+1363.32	stat_player	accuracy	7	44.444447
+1363.32	stat_player	score	7	102
+1363.32	stat_player	frags	7	24
+1363.32	stat_player	kills	7	24
+1363.32	stat_player	deaths	7	7
+1363.32	stat_player	suicides	7	0
+1363.32	stat_player	teamkills	7	0
+1363.32	stat_player	efficiency	7	77.419350
+1363.32	stat_player	time_on_server	7	961.878906
+1363.32	stat_player	ttl	7	137.285721
+1363.32	weap_shotcount	Enhanced Shock Rifle	7	54
+1363.32	weap_hitcount	Enhanced Shock Rifle	7	24
+1363.32	weap_damagegiven	Enhanced Shock Rifle	7	36000
+1363.32	weap_accuracy	Enhanced Shock Rifle	7	44.444447
+1363.32	stat_player	accuracy	8	0.000000
+1363.32	stat_player	score	8	-1
+1363.32	stat_player	frags	8	-1
+1363.32	stat_player	kills	8	0
+1363.32	stat_player	deaths	8	3
+1363.32	stat_player	suicides	8	1
+1363.32	stat_player	teamkills	8	0
+1363.32	stat_player	efficiency	8	0.000000
+1363.32	stat_player	time_on_server	8	620.829468
+1363.32	stat_player	ttl	8	206.666672
+1363.32	weap_shotcount	Enhanced Shock Rifle	8	12
+1363.32	weap_hitcount	Enhanced Shock Rifle	8	0
+1363.32	weap_damagegiven	Enhanced Shock Rifle	8	0
+1363.32	weap_accuracy	Enhanced Shock Rifle	8	0.000000
+1363.32	teamscore	0	4
+1363.32	teamscore	1	3
