@@ -8,5 +8,5 @@ On an i5-3570K @ 4.0GHz with an Intel 330 180GB SSD, logfiles are processed at a
 <ul>
 	<li>The UTStats log files do not give the player name and IP address on the same line but rather link these together with a unique (integer) player identifier, adding a little bit of extra complexity to the code</li>
 	<li>This program can be used with an already existing masterlist.txt and will simply append new entries. V1 masterlists can also be used</li>
-	<li>The view source section below contains a compiled executable along with a sample log file</li>
+	<li>A compiled executable along with a sample log file is included</li>
 </ul>
